@@ -1,2 +1,2 @@
-# Data-Mining-Reveiw
- Fianl Review on data mining
+# Data-Mining-Review
+Review on data mining
