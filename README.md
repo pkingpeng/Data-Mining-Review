@@ -1,2 +1,4 @@
 # Data-Mining-Reveiw
- Fianl Review on data mining
+Review on data mining
+Only for self review
+Not any other purposes
